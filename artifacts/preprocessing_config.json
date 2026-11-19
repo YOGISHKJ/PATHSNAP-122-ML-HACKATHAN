@@ -1,0 +1,25 @@
+{
+  "top_k": 5,
+  "search_pool": 30,
+  "feature_columns": [
+    "cand_distance_m",
+    "heading_diff_deg",
+    "cand_rank",
+    "dist_ratio_to_min",
+    "dist_diff_to_min",
+    "gps_speed_kmh",
+    "gps_step_dist_m",
+    "time_diff_s",
+    "road_length_m",
+    "gps_lon",
+    "gps_lat",
+    "road_heading",
+    "gps_heading"
+  ],
+  "n_train_trips": 80,
+  "n_train_candidates": 1042085,
+  "train_miss_rate": 0.06642442509330615,
+  "n_test_trips": 10,
+  "n_test_candidates": 95800,
+  "test_miss_rate": 0.03604997494273969
+}
