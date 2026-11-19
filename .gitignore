@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE / Editor artifacts
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Large Raw Archives (Dataset extracted in data/ is tracked or kept per policy)
+*.zip
+*.tar.gz
+*.7z
+
+# Temporary files & logs
+*.log
+*.tmp
+.pytest_cache/
+PathSnap_122_repo/
+

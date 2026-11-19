@@ -1,0 +1,30 @@
+# Core Scientific & Data Processing
+numpy>=2.0.0
+pandas>=2.0.0
+scipy>=1.14.0
+pyarrow>=15.0.0
+
+# Machine Learning & Optimization
+scikit-learn>=1.5.0
+xgboost>=2.0.0
+optuna>=3.6.0
+joblib>=1.4.0
+
+# Spatial & Visualization
+shapely>=2.0.0
+folium>=0.16.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+jinja2>=3.1.0
+
+# Backend & Networking
+fastapi>=0.110.0
+uvicorn>=0.28.0
+requests>=2.31.0
+pydantic>=2.6.0
+
+# Frontend Dashboard
+streamlit>=1.32.0
+
+# Technical Documentation & Reporting
+reportlab>=4.1.0
