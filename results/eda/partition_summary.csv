@@ -1,0 +1,5 @@
+,trip_id,n_track,n_track,n_track,n_track,n_track,n_nodes,n_nodes,n_nodes,n_nodes,n_arcs,n_arcs,n_arcs,n_arcs,route_len,route_len,route_len,route_len,route_len,trajectory_len_km,trajectory_len_km,trajectory_len_km,trajectory_len_km,mean_speed_kmh,mean_speed_kmh,mean_speed_kmh,one_sec_fraction,one_sec_fraction,large_gaps_gt_5s,large_gaps_gt_5s
+,count,mean,median,min,max,sum,mean,median,min,max,mean,median,min,max,mean,median,min,max,sum,mean,median,min,max,mean,median,max,mean,min,sum,mean
+partition,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+student_test,10,1916.0,1420.0,262,3958,19160,9068.9,6596.5,1770,26635,18504.1,13145.0,3577,56027,347.7,250.0,95,1323,3477,29.696740607345514,20.935588184648523,5.5467973136250945,71.71579644951268,55.800842108183666,55.831218281344235,78.23501398264807,0.9819896936551981,0.8612794612794613,44,4.4
+train,80,2605.2125,1529.0,361,19313,208417,24168.5625,9608.0,299,155003,48461.3,19526.5,649,307392,391.7,280.0,59,2266,31336,37.23013714918642,24.065686230093412,6.334161572525398,169.2537724131405,54.64866721124828,48.12778010017494,139.2002715987129,0.9383341170217598,0.5306553911205074,1216,15.2
