@@ -1,0 +1,14 @@
+{
+  "best_cv_macro_f1": 0.8285549665421031,
+  "optimization_duration_seconds": 128.54423880577087,
+  "n_trials": 15,
+  "best_parameters": {
+    "n_estimators": 60,
+    "max_depth": 5,
+    "learning_rate": 0.05377526047186648,
+    "subsample": 0.7813325826908161,
+    "colsample_bytree": 0.7971693224223705,
+    "reg_alpha": 0.010085836630992925,
+    "reg_lambda": 1.724795771004602
+  }
+}
